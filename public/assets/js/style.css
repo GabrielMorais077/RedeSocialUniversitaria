@@ -1,0 +1,62 @@
+#nav_bar  {
+    background-color: rgb(89, 49, 128) !important;
+    color: cornsilk !important;
+}
+.p {
+    margin-bottom: 0px;
+  }
+#butons {
+    background-color: rgb(133, 226, 39)!important;
+    
+}    
+#cor {
+    color: cornsilk !important;
+}
+#fundo{
+    background-color:white;
+}
+.card {
+    display: inline-block;
+    color:white;
+    background-color: rgb(89, 49, 128);
+    width:24.72%;
+    margin-top: 3px
+    ;
+    white-space:nowrap;
+
+}
+.card button{
+ margin-left: 2px;
+ margin-bottom: 4px;
+ background-color: rgb(133, 226, 39);
+ white-space:nowrap;
+
+ 
+
+}
+.card a {
+    color: rgb(104, 181, 253);
+}
+.jumbotron {
+    display: inline-block;
+    width: 50%, auto;
+    margin-bottom: 0.5rem;
+ 
+}
+.jumbotron button{
+    background-color: rgb(133, 226, 39) !important;
+    white-space:nowrap;
+    
+}
+.jumbotron input{
+    width: 70%;
+    margin: none;
+    background-color: rgb(255, 251, 251);
+    border-radius: 1,4;
+    border-color: transparent;
+}
+.jumbotron a{
+    white-space:nowrap;
+    display: inline-block;
+}
+
